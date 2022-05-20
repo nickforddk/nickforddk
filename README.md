@@ -8,9 +8,9 @@ My research interests include:
 - macroeconomic theory
 
 ## In brief
-🏠 Living in: Copenhagen, Denmark
-🏢 Works in: Lund, Sweden
-🦘 Grew up in: Melbourne, Australia
+🏠 Living in: Copenhagen, Denmark  
+🏢 Works in: Lund, Sweden  
+🦘 Grew up in: Melbourne, Australia  
 💬 Languages: English, Danish (and can understand Norwegian, Swedish)
 
 ## More information
