@@ -14,4 +14,4 @@ My research interests include:
 💬 Languages: English, Danish (and can understand Norwegian, Swedish)
 
 ## More information
-🌐 [Homepage] https://www.nickford.com
+🌐 [Homepage](https://www.nickford.com)
