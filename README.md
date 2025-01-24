@@ -1,5 +1,5 @@
 # Hej, I'm Nick!
-I'm a PhD student at the Department of Economic History at Lund University. I work with Scandinavian economic history, with a focus on education’s role in industrialisation. I apply quantitative methods using historical source material to understand development trends over the long term.
+I'm a postdoctoral researcher at the Department of Economics at the University of Southern Denmark. I work with Scandinavian economic history, with a focus on education’s role in industrialisation. I apply quantitative methods using historical source material to understand development trends over the long term.
 
 My research interests include:
 - long-term economic growth and productivity
@@ -8,9 +8,10 @@ My research interests include:
 - macroeconomic theory
 
 ## In brief
-🏠 Living in: Copenhagen, Denmark  
-🏢 Works in: Lund, Sweden  
-🦘 Grew up in: Melbourne, Australia  
+🏠 Lives in: Copenhagen, Denmark  
+🏢 Works in: Odense, Denmark
+🦘 Grew up in: Melbourne, Australia
+👨‍🎓 PhD: Economic History, Lund University, Sweden
 💬 Languages: English, Danish (and can understand Norwegian, Swedish)
 
 ## More information
