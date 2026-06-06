@@ -16,3 +16,4 @@ My research interests include:
 
 ## More information
 🌐 [Homepage](https://www.nickford.com)
+🌐 [Personal lab](https://git.nickford.com)
